@@ -1,0 +1,57 @@
+Ethan Hicks CS350 Chapter Review Questions.
+1-24-2016
+Chapeters 4,5,6. 
+
+
+CHAPTER 4. 
+
+1. Why is it important to complete the design process thoroughly? 
+2. T or F: The level of structural integrity is in direct proportion to how thoroughly you follow the design process. 
+3. What is the purpose of a mission statement? 
+4. What are mission objectives? 
+5. What constitutes your organizations fundamental data requrements? 
+6. How do you determine the various subjects that the tables will represent? 
+7. T or F: You establish field specifictions for each field in the database during the second phase of the database design process. 
+8. How do yuo establish a logical connection between the tables in a relationship? 
+9. What determines a set of limitations and requirements that you must build into the database? 
+10. What can you design and implement to support certain business rules? 
+11. How do you determine the types of views you need to build the database? 
+12. when can you implement your logical structure in an RDBMS program? 
+
+CHAPTER 5.
+
+1. Why are interviews important?
+2. What problem can arise when you conduct an interview with a large number of people?
+3. What is the primary reason for conducting separate interviews with users and management?
+4. True or False: You'll commonly use closed questions in your interviews.
+5. What kind of responses should you try to evoke from the interview participants?
+6. What is the single most important guideline for every interview you conduct?
+7. What is a mission statement ?
+8. State two characteristics of a well-written mission statement.
+9. True or False: You need not learn about the organization in order to compose a mission statement.
+10. When is your mission statement complete?
+11. What is a mission objective?
+12. State two characteristics of a well-written mission objective
+13. True or False: You should interview users and management to help you define mission objectives.
+14. How does the staff's daily work relate to the mission objectives?
+15. True or False: A mission objective can describe more than one task.
+16. State two ways that a mission objective can be derived from a response.
+17. When is a mission objective complete?
+
+CHAPTER 6. 
+
+1. State two goals of analyzing the current database.
+2. True or False: You can adopt the current database structure as the basis for the new structure.
+3. What is a legacy database?
+4. State two steps of the analysis process.
+5. Which types of computer software programs should you review during the analysis?
+6. Why should you conduct interviews after you gather data-collection and information presentation samples?
+7. How do you use "open" and "closed" questions?
+8. What is the subject-identification technique?
+9. How do you identify specific attributes for a particular subject?
+10. True or False: You should interview users and management at the same time.
+11. What three basic types of information requirements must you identify?
+12. What is the preliminary field list?
+13. State why each item on this list should have a unique name.
+14. What is a value list?
+15. What are calculated fields? What (if anything) should you do about them?
