@@ -4,3 +4,93 @@ CS350
 Databases
 CH 1,2,3 review questions
 
+### CH1 ###
+
+1. Name the two main types of databases used today.
+- Analytical and Operational
+2. What type of data does an analytical database store?
+-Static
+3. T or F, An operational Database is used primarily in (OLTP) scenarios. 
+-False
+4. What two data models were commonly used in the days before the relational database model? 
+-Hierarchical and network models were used before. 
+5. Describe a parent child relationship.
+A parent can have multiple childs but a child may only have one parent. 
+6. What is a set structure.
+-An item that establishes and represents a relationship in a network database.
+7. Name one of the branches of mathematics on which the relational model is based.
+- Set theory and First-order predicate logic. 
+8. How does a relational database store data. 
+-a relational database uses relations which the user perceives as tables. these are composed of records tables and fields.
+9. Name the three types of relationships in a relational database.
+-One to one, one to many, and many to many. 
+10. How do you retreive data from a relational database?
+- By using the structured query language. 
+11. State two advantages of a relational database 
+-Built in multilevel integrity, Easy data retreival. 
+12. What is a relational database management system? 
+-A software application program used to create maintain and modify a relational database.
+13. What is the premise behind the object-relational model? 
+- that the developer handles every aspect of the database. 
+14. What is the purpose of a database warehouse? 
+- to integrate and consolidate data.  
+
+### CH2 ###
+
+1. When is the best time to use an RDBMS programs design tools? 
+-after you have created the logical database structure. 
+2. T or F. Design is crucial to the consistency, integrity, and accuracy of data. 
+-T
+3. What is the most detrimental result of improper database design?
+-Wrong or inaccurate data. 
+4. What fact makes the relational database structurally sound and able to guarantee accurate information? 
+-Mathematical theory.
+5. State two advantages of learning a design methodology. 
+-It gives you the skills you need to design a sound database structure, the information is easy to retrieve.
+6. T or F. You will use your RDBMS program more effectively if you understand database design.
+-True 
+7. State two objectives of good design. 
+-The database lends itself to future growth, the database supports business rules relevant to the organization.
+8. What helps to guarantee that datastructures and their values are accurate and valid at all times?
+-Database design methods, including requirements analysis, data modeling, and normalization.
+9. State two benefits of applying good design techniques. 
+-Data is easily modifiable, and information is easy to retreive. 
+10. T or F. You can take shortcuts through some of the design processes and still arrive at a good sound design. 
+-False
+
+### CH3 ###
+
+1. Why is terminology important?
+- to ensure the things being discussed are truly the things being discussed. 
+2. Name the four categories of terms.
+-Value, Structure, 
+3. What is the difference between data and information?
+- Data is stored and has no real relevance to a specific concept and information is derived from data for a purpose.
+4. What does a null represent?
+- Missing or unknown value.
+5. What is a nulls major disadvantage? 
+- It assigns an actual value to an object that should be "empty" rather than "null", plus it breaks java. 
+6. What are the cheif structures in the database?
+-Tables
+7. Name the three types of tables. 
+-Linking tables, data table, validation table. 
+8. What is a view? 
+- a view is a virtual table composed of other tables in the database. 
+9. State the difference between a key and an index. 
+- A key is a reference to the value of a certain object, an index is a value related to the location of said object. 
+10. What are the three types of relationships that can exist between a pair of tables?
+-One to one, one to many, and many to many.
+11. What are the three ways in which you can characterize a relationship?
+-mandatory, optional, and logical.
+12. What is a field specification?
+-Also known as a domain, represents all elements of a particular field. 
+13. What three types of elements does a field specification incorporate? 
+General, Physical, and Logical. 
+14. What is data integrity?
+-Refers to the validity, accuracy and consistency of data. 
+15. Name the four types of data integrity. 
+-Table, level, business rule, relationship, level integrity. 
+
+
+
+
